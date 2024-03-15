@@ -1,9 +1,10 @@
 # Hi there 👋, I'm Avinash Kumar
 
-## Aspiring Software Developer | Q&A Expert (CSE) | Founder member of Coding community BPMCE
+## Software Developer Intern @ CDAC Noida | Q&A Expert (CSE) | Founder member of Coding community BPMCE
 
 - 🔭 I’m currently working on several projects:
-  -  Building the Front- End of CR IT PVT LTD( https://critsolutionsandservices.com/ ) company website
+  -  Done -  Building the Front- End of CR IT PVT LTD( https://critsolutionsandservices.com/ ) company website
+  -  Software Engineer Intern @CDAC Noida
      
 - 🔭 I have done several projects:
   - Weather Web App using HTML5, CSS3, JS and Postman.
