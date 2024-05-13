@@ -8,10 +8,13 @@
      
 - 🔭 I have done several projects:
   - Weather Web App using HTML5, CSS3, JS and Postman.
-  - The Code Space ( Our college coding club website leverages Mern Stack.
-  - Meeting App using Socket io and Webrtc 
+  - The Code Space ( Our college coding club website leverages Mern Stack )
+  - Meeting App using Socket io and Webrtc
+ 
+- 🔭 Skills:
+  - Java, JavaScript, Spring Boot, Python, SQL, PostgreSQL, HTML5, CSS3
 
-- 🌱 I’m currently learning more about web development technologies (React, Typescript, Express JS, Node, and AWS cloud)
+- 🌱 I’m currently learning more about web development technologies (React, Typescript and AWS cloud)
 
 - 👯 I’m looking to collaborate on open-source projects
 
