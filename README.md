@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on several projects:
   -  Done -  Building the Front- End of CR IT PVT LTD( https://critsolutionsandservices.com/ ) company website
-  -  Software Engineer Intern @CDAC Noida
+  -  Software Developer Intern @CDAC Noida (Java, SpringBoot, Docker, PostgreSQL)
      
 - 🔭 I have done several projects:
   - Weather Web App using HTML5, CSS3, JS and Postman.
